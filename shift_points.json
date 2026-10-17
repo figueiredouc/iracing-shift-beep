@@ -1,0 +1,9 @@
+{
+  "_help": "Shift RPM overrides. Key = car name exactly as shift_beep prints it. Gears are strings (\"1\", \"2\", ...). Keys starting with _ are ignored. See README.md.",
+  "cars": {
+    "_example": {
+      "default": 7200,
+      "gears": { "1": 7000, "2": 7150 }
+    }
+  }
+}
